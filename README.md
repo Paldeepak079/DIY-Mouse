@@ -1,4 +1,4 @@
-# DIY-Mouse
+# DIY-Mouse- MPU6050
 An ESP32 and MPU6050 sensor into a wireless Bluetooth  DIY Mouse. 
 
 # Libraries:
